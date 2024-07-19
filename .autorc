@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "armagedon120",
+  "repo": "container-ekvmgkw",
+  "name": "armagedon120",
+  "email": "armagedon120@gmail.com",
+}
